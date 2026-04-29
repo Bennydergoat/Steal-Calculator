@@ -20,6 +20,13 @@
 
 ----
 
+## Features
+
+- Hassle-free Discord Rich Presence to let your friends know what you're playing at a glance
+- Simple support for modding of content files for customizability (death sound, mouse cursor, etc)
+- See where your server is geographically located (courtesy of [ipinfo.io](https://ipinfo.io))
+- Ability to configure graphics fidelity and UI experience
+
 Steal-Calc is a Calculator designed to calculate the Steal Cost of Ores for the Roblox Game Grab Ores.
 
 [shield-repo-license]:  https://img.shields.io/github/license/Bennydergoat/Steal-Calculator
