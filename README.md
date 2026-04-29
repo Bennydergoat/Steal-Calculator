@@ -1,5 +1,5 @@
 > [!CAUTION]
-> This is just a Experimental Project for the Grab Ores! Roblox Game, it is just a suggestion and its not official used yet.
+> This is just a Experimental Project for the [Grab Ores!](https://www.roblox.com/games/82806856224736/Grab-Ores) Roblox Game, it is just a suggestion and its not official used yet.
 
 > [!IMPORTANT]
 > Steal-Calculator is currently not under active development.
