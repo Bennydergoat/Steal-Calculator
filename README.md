@@ -11,7 +11,6 @@
 <div align="center">
 
 [![License][shield-repo-license]][repo-license]
-[![GitHub Workflow Status][shield-repo-workflow]][repo-actions]
 [![Downloads][shield-repo-releases]][repo-releases]
 [![Version][shield-repo-latest]][repo-latest]
 [![Discord][shield-discord-server]][discord-invite]
@@ -54,7 +53,6 @@ Since this is a client-side web app, you don't need to install anything.
 </p>
    
 [shield-repo-license]:  https://img.shields.io/github/license/Bennydergoat/Steal-Calculator
-[shield-repo-workflow]: https://img.shields.io/github/actions/workflow/status/Bennydergoat/Steal-Calculator/ci-release.yml?branch=main&label=builds
 [shield-repo-releases]: https://img.shields.io/github/downloads/Bennydergoat/Steal-Calculator/latest/total?color=981bfe
 [shield-repo-latest]:   https://img.shields.io/github/v/release/Bennydergoat/Steal-Calculator?color=7a39fb
 
