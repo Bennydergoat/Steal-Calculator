@@ -37,13 +37,21 @@
 
 ## 🛠️ Installation & Setup
 
-Since this is a client-side web app, you don't need to install anything, you can easely access it via your´e Browser [here](graborescalc.netlify.app/).
+Since this is a client-side web app, you don't need to install anything, you can easely access it via your´e Browser [here](https://graborescalc.netlify.app/).
 
 
 To run this project locally, you can clone the repository directly using the command below:
    ```
    git clone https://github.com/Bennydergoat/Steal-Calculator.git
    ```
+After cloning the Project use this command to change the directory into you cmd to the correct Path
+```
+cd Steal-Calculator
+```
+At last you can run the index.html with this command
+```
+start index.html
+```
    
 ## Preview
 
