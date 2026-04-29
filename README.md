@@ -50,7 +50,7 @@ Since this is a client-side web app, you don't need to install anything.
 ## Preview
 
 <p align="center">
-    <img src="https://github.com/Bennydergoat/Steal-Calculator/blob/main/Images/Website%20Preview.png" width="640">
+    <img src="https://github.com/Bennydergoat/Steal-Calculator/blob/main/Images/Website%20Preview.png" width="1080">
 </p>
    
 [shield-repo-license]:  https://img.shields.io/github/license/Bennydergoat/Steal-Calculator
