@@ -22,10 +22,11 @@
 
 ## Features
 
-- Hassle-free Discord Rich Presence to let your friends know what you're playing at a glance
-- Simple support for modding of content files for customizability (death sound, mouse cursor, etc)
-- See where your server is geographically located (courtesy of [ipinfo.io](https://ipinfo.io))
-- Ability to configure graphics fidelity and UI experience
+- **Real-time Valuation:** Instantly calculates Robux totals as you change parameters.
+- **Mutation Multipliers:** Supports Normal (1x), Gold (1.25x), Diamond (1.5x), and Rainbow (1.75x) mutations.
+- **Merge Tiers:** Includes all tiers from Base to Omega (up to 6.25x multiplier).
+- **Responsive Design:** Works beautifully on both desktop and mobile browsers.
+- **Modern UI:** Features CSS glassmorphism, animated background glows, and interactive buttons.
 
 Steal-Calc is a Calculator designed to calculate the Steal Cost of Ores for the Roblox Game Grab Ores.
 
