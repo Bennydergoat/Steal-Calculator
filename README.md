@@ -41,7 +41,7 @@ Since this is a client-side web app, you don't need to install anything.
 
 To run this project locally, you can clone the repository directly using the command below:
    ```
-   git clone [https://github.com/Bennydergoat/Steal-Calculator.git](https://github.com/Bennydergoat/Steal-Calculator.git)
+   git clone https://github.com/Bennydergoat/Steal-Calculator.git
    ```
    
 ## Preview
