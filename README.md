@@ -53,6 +53,8 @@ At last you can run the index.html with this command
 ```
 start index.html
 ```
+
+To later locate the Project or delete it, search for C:\Users\YOURUSERNAMEHERE and delete the folder labled Steal-Calculator
    
 ## Preview
 
