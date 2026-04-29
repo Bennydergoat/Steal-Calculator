@@ -56,7 +56,7 @@ start index.html
 
 ----
 
-To later locate the Project or delete it, search for C:\Users\YOURUSERNAMEHERE and delete the folder labled Steal-Calculator
+To later locate the Project or delete it, search for C:\Users\YOURUSERNAMEHERE the folder labled Steal-Calculator
 
 ----
 
