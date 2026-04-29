@@ -14,6 +14,7 @@
 [![GitHub Workflow Status][shield-repo-workflow]][repo-actions]
 [![Downloads][shield-repo-releases]][repo-releases]
 [![Version][shield-repo-latest]][repo-latest]
+[![Discord][shield-discord-server]][discord-invite]
 [![Netlify Status](https://api.netlify.com/api/v1/badges/6aa702cd-b7cc-4544-8fa4-e796b5a943d0/deploy-status)](https://app.netlify.com/projects/orestealcalc/deploys)
 
 </div>
@@ -52,3 +53,5 @@ Since this is a client-side web app, you don't need to install anything.
 [repo-actions]:  https://github.com/Bennydergoat/Steal-Calculator/actions
 [repo-releases]: https://github.com/Bennydergoat/Steal-Calculator/releases
 [repo-latest]:   https://github.com/Bennydergoat/Steal-Calculator/releases/latest
+
+[discord-invite]:  https://discord.gg/grabores
