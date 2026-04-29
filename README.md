@@ -42,6 +42,7 @@ Since this is a client-side web app, you don't need to install anything.
 
 1. Clone the repository:
    ```bash
+   
    git clone [https://github.com/Bennydergoat/Steal-Calculator.git](https://github.com/Bennydergoat/Steal-Calculator.git)
    
 [shield-repo-license]:  https://img.shields.io/github/license/Bennydergoat/Steal-Calculator
