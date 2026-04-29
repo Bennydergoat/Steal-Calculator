@@ -46,6 +46,12 @@ Since this is a client-side web app, you don't need to install anything.
    ```
   
    You can also just download the index.html file and open it with google chrome in you browser locally
+
+## Preview
+
+<p align="center">
+    <img src="https://github.com/Bennydergoat/Steal-Calculator/blob/main/Images/Website%20Preview.png" width="380">
+</p>
    
 [shield-repo-license]:  https://img.shields.io/github/license/Bennydergoat/Steal-Calculator
 [shield-repo-workflow]: https://img.shields.io/github/actions/workflow/status/Bennydergoat/Steal-Calculator/ci-release.yml?branch=main&label=builds
