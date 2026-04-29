@@ -5,8 +5,7 @@
 > Steal-Calculator is currently not under active development.
 
 <p align="center">
-    <img src="https://cdn.discordapp.com/attachments/927916856164114432/1499041024683806760/image.png?ex=69f35a3f&is=69f208bf&hm=0b4fceede6a3e539acb0b7f681331f783102164f8f58f8be7e39b05af39db7e1&#gh-dark-mode-only" width="380">
-    <img src="https://cdn.discordapp.com/attachments/927916856164114432/1499041024683806760/image.png?ex=69f35a3f&is=69f208bf&hm=0b4fceede6a3e539acb0b7f681331f783102164f8f58f8be7e39b05af39db7e1&#gh-light-mode-only" width="380">
+    <img src="https://github.com/Bennydergoat/Steal-Calculator/blob/main/Images/Calculator_white.png#gh-dark-mode-only" width="380">
 </p>
 
 <div align="center">
