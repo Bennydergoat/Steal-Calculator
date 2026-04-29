@@ -35,11 +35,16 @@
 3. **Set Merge Tier:** Select the refinement level of the ore.
 4. **View Result:** The final Robux value and total multiplier update automatically at the bottom.
 
+## 🛠️ Installation & Setup
 
+Since this is a client-side web app, you don't need to install anything.
 
-
-Steal-Calc is a Calculator designed to calculate the Steal Cost of Ores for the Roblox Game Grab Ores.
-
+1. Clone the repository:
+   ```bash
+   ```
+   git clone [https://github.com/Bennydergoat/Steal-Calculator.git](https://github.com/Bennydergoat/Steal-Calculator.git)
+```
+   
 [shield-repo-license]:  https://img.shields.io/github/license/Bennydergoat/Steal-Calculator
 [shield-repo-workflow]: https://img.shields.io/github/actions/workflow/status/Bennydergoat/Steal-Calculator/ci-release.yml?branch=main&label=builds
 [shield-repo-releases]: https://img.shields.io/github/downloads/Bennydergoat/Steal-Calculator/latest/total?color=981bfe
