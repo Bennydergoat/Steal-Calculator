@@ -23,6 +23,8 @@
 
 Steal-Calc is a Calculator designed to calculate the Steal Cost of Ores for the Roblox Game Grab Ores.
 
+[shield-repo-license]:  https://img.shields.io/github/license/Bennydergoat/Steal-Calculator
+
 [repo-license]:  https://github.com/Bennydergoat/Steal-Calculator/blob/main/LICENSE
 [repo-actions]:  https://github.com/Bennydergoat/Steal-Calculator/actions
 [repo-releases]: https://github.com/Bennydergoat/Steal-Calculator/releases
